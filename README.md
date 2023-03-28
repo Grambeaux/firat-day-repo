@@ -1,1 +1,1 @@
-# firat-day-repo
+# first-day-repo
